@@ -1,1 +1,1 @@
-# homebrew
+# Homebrew formula for Envless CLI
